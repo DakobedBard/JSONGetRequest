@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSONGetRequest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="load">Load Data</string>
+    
+    <string name="check">Start new activity</string>
+    <string name="data">DataBase </string>
+
+	<string-array name = "planets">
+	    <item> Mercury</item>
+	    <item> Venus</item>
+	    <item> Earth
+	        </item>
+	        <item>Mars</item>
+	</string-array>
+
+
+</resources>
